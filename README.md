@@ -1,7 +1,7 @@
 # FARAD — Autonomous Underwater Vehicle (AUV)
 
 **TEKNOFEST 2025 · Unmanned Underwater Systems Competition · Advanced Category**
-Team FARAD (Azerbaijan) · Application ID `3478075`
+Team FARAD (Azerbaijan)
 
 A fully autonomous underwater vehicle built almost entirely in-house: custom hydrodynamic hull, self-designed thrusters, two custom PCBs (flight control + power distribution), a custom waterproof servo, and a vision stack running on an NVIDIA Jetson Orin NX that trains itself while it runs.
 

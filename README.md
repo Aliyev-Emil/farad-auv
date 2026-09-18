@@ -3,7 +3,7 @@
 **TEKNOFEST 2025 · Unmanned Underwater Systems Competition · Advanced Category**
 Team FARAD (Azerbaijan)
 
-A fully autonomous underwater vehicle built almost entirely in-house: custom hydrodynamic hull, self-designed thrusters, two custom PCBs (flight control + power distribution), a custom waterproof servo, and a vision stack running on an NVIDIA Jetson Orin NX that trains itself while it runs.
+A fully autonomous underwater vehicle built by a team of 4. Custom hydrodynamic hull, self-designed thrusters, two custom PCBs (flight control + power distribution), a custom waterproof servo, and a vision stack running on an NVIDIA Jetson Orin NX that trains itself while it runs.
 
 <p align="center">
   <img src="assets/final-design-render.jpg" width="49%" alt="Final CAD design">
